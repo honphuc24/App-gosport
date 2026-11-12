@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "172905498755",
+    "project_id": "gosport-12486",
+    "storage_bucket": "gosport-12486.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172905498755:android:3d9e1b2232f099ac7b33b6",
+        "android_client_info": {
+          "package_name": "com.example.gosport"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpOgwuypaFyf5itOaK6bx-7L9jSZ1m0Rs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
